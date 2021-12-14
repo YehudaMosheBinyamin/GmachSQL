@@ -1,2 +1,2 @@
 # GmachSQL
-A database to manage a charitable loan organization
+A PLSQL database to manage data about the staff, recipients, guarantors and branches of the organization.
